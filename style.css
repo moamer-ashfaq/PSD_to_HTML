@@ -1,0 +1,70 @@
+.navigation
+{
+	float: right;
+	text-align: center;
+	margin: 5x;
+	padding: 3x;
+}
+
+.navigation,a
+{
+	color: black;
+	padding: 14px 16px;
+	font-size:20px;
+	text-decoration: none;
+}
+
+.navigation,a:hover
+{
+color: black;
+}
+
+.heading-picture
+{
+	margin: 10x;
+}
+
+
+.center-headings
+{
+	text-align: center;
+}
+
+.center-text
+{
+	text-align: center;
+}
+
+.explore
+{
+	text-align: center;
+	background-color:#155679 ;
+	display: block;
+	border-radius: 6px;
+	color: white;
+	padding: 5px,4px;
+
+}
+
+.table
+{
+	width: 100%;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 20px;
+    width: 1200px;
+    border-spacing: 30px;
+}
+
+.table,tr
+{
+	border-bottom: thin;
+}
+
+.text-input
+{
+	padding: 5px 5px;
+	margin: 5px 5px 5px 5px;
+	width: 600px;
+	height: 30px;
+}
